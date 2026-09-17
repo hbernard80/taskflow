@@ -4,7 +4,7 @@
 
 📆 08/2026
 
-_TaskFlow_ est une application pédagogique de gestion de tâches réalisée en TypeScript. Elle met en pratique le typage strict, la manipulation du DOM, les classes, les modules, les appels à une API REST et plusieurs fonctionnalités avancées du système de types.
+_TaskFlow_ est une application de gestion de tâches réalisée en TypeScript. Elle met en pratique le typage strict, la manipulation du DOM, les classes, les modules, les appels à une API REST et plusieurs fonctionnalités avancées du système de types.
 
 ## Fonctionnalités
 
